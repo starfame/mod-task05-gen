@@ -7,7 +7,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-IASR/mod-task05-gen)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-IASR/mod-task05-gen)
 
-![Relative date](https://img.shields.io/date/1618779600)
+![Relative date](https://img.shields.io/date/1619384400)
 
 В данной работе нужно разработать три класса, каждый из которых представляет собой генератор текста, работающий по определенному алгоритму. Входные данные для алгоритмов скачиваются по адресам, указанным в задании. 
 
