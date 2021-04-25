@@ -161,5 +161,6 @@ namespace generator
 			CharGenerator ch = new CharGenerator("table_1", "test1", 31, 1000);
 			WordsGenerator W_1 = new WordsGenerator("dictionary_1.txt", "test2", 1000, 100);
 			WordsGenerator_1 W_2 = new WordsGenerator_1("dictionary_2.txt", "test3", 1000, 100);
+	}
     }
 }
