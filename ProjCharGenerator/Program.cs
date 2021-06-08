@@ -44,7 +44,7 @@ namespace generator
 					int current_summ = 0;
 					for (int k = 0; k < num_l; k++)
 					{
-						if (data[j, k] != 0)
+						if (data[i, k] != 0)
 							for (int j = 0; j < num_l; j++)
 							{
 								{
